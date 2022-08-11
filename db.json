@@ -1,0 +1,53 @@
+{
+  "registros": [
+    {
+      "servicio": "hola",
+      "numOficio": "holi",
+      "remitente": "hola",
+      "usuarioRegistro": "testing",
+      "razonSocial": "testing",
+      "destinatario": "testing",
+      "tipoDocu": "testing",
+      "fecha": "2021-08-10",
+      "id": 2
+    }
+  ],
+  "usuarios": [
+    {
+      "perfil": "sad1",
+      "nombreUsuario": "sad",
+      "apPa": "das",
+      "apMa": "asd",
+      "clave": "dsa",
+      "mail": "heguer25@hotmail.com",
+      "area": "dfasfsd",
+      "status": "asdf",
+      "id": 4
+    },
+    {
+      "perfil": "Joder qué está fallando3",
+      "nombreUsuario": "Joder qué está fallando",
+      "apPa": "Joder qué está fallando",
+      "apMa": "Joder qué está fallando",
+      "clave": "Joder qué está fallando",
+      "mail": "hegeur@hotmail.com",
+      "area": "Joder qué está fallando",
+      "status": "Joder qué está fallando",
+      "id": 5
+    }
+  ],
+  "uaus": [
+    {
+      "num": "retetr",
+      "nombreUau": "ertret",
+      "domicilio": "ertreth",
+      "id": 6
+    },
+    {
+      "num": "dfwe3244",
+      "nombreUau": "gr",
+      "domicilio": "fdsg",
+      "id": 7
+    }
+  ]
+}
